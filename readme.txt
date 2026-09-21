@@ -16,3 +16,7 @@ https://pan.baidu.com/s/1IwsqQBPW_bUbmtCzp2wqmA?pwd=1234
 code: 1234
 
 Currently, the program can only be run in Windows systems.
+
+Performance
+The model was trained on a data set consisting of thousands of GPCR proteins.
+And the accuracy of Q2 exceeds 90%.
