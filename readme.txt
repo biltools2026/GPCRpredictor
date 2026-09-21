@@ -12,7 +12,7 @@ The output result is gpcr_trans.txt, in which O stands for non-transmembrane reg
 and M stands for transmembrane region.
 
 Download link
-https://pan.baidu.com/s/1TOviT6ZRQ7wAz789tg0dvQ 提取码: 1234
+https://pan.baidu.com/s/1IwsqQBPW_bUbmtCzp2wqmA?pwd=1234
 code: 1234
 
 Currently, the program can only be run in Windows systems.
