@@ -1,5 +1,7 @@
 This is a computational method for predicting GPCR transmembrane regions. 
 
+TransGPCR modular of the package is used for predicting the transmembrane regions of GPCR proteins. More than 6,000 expert-annotated GPCR transmembrane region data entries were screened from the latest version of the UniProt database, and the Neural network algorithm was used for thorough modeling. The resulting model achieved a tested accuracy of over 90%.
+
 Install
 The program can be after the perl is installed. The perl program is deposited in the install directory.
 
